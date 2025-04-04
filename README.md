@@ -1,2 +1,2 @@
-# visualizaciones
+# Visualizaciones
 Dashboards en Power BI
